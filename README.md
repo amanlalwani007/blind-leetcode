@@ -29,11 +29,12 @@ Time Complexity :- O(N**2)
 Space complexity :- O(1)
 
 Approach 2 (using map):- 
-Loop through all values in array if target-current_value found in map then return i ,map[target-current_value] else add value in map map[current_value]=index of current_value
+Loop through all values in array if target-current_value found in map then return i ,map[target-current_value] else add value in map map[current_value]=index of current_value.
 
-Code :- 
-
+Time Complexity :- O(N)
+Space complexity :- O(N)
 ```
+Approach 2 Code :- https://github.com/amanlalwani007/blind-leetcode/blob/main/1.Two_Sum.java
 
 
 
