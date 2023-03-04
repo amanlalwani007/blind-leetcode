@@ -72,7 +72,7 @@ In this while traversing we maintain min_stock_price_till_now and sell stock eve
 and calculate max_profit. 
 
 ```
-Approach 2 Code :- 
+Approach 2 Code :- https://github.com/amanlalwani007/blind-leetcode/blob/main/Best_Time_to_Buy_and_Sell_Stock.java
 
 
 
